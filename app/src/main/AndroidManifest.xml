@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
 
-        <!-- THÊM DÒNG NÀY ĐỂ KHAI BÁO MÀN HÌNH CHI TIẾT -->
+        <!-- THÊM DÒNG KHAI BÁO NÀY ĐỂ SỬA LỖI CRASH -->
         <activity
             android:name=".DetailActivity"
             android:exported="false" />
